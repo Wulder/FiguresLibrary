@@ -1,0 +1,3 @@
+use TestDB;
+--Как я понял, по логике в базе данных имеется связующая таблица (Продукт_Категория) и исходя из этого нужно составить небольншой запрос:
+select Product_ID,Category_ID from Products_Categories order by Product_ID asc;
