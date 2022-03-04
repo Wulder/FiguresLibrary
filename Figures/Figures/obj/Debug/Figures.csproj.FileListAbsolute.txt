@@ -1,0 +1,6 @@
+F:\Visual Studio\Figures\Figures\bin\Debug\Figures.dll
+F:\Visual Studio\Figures\Figures\bin\Debug\Figures.pdb
+F:\Visual Studio\Figures\Figures\obj\Debug\Figures.csproj.AssemblyReference.cache
+F:\Visual Studio\Figures\Figures\obj\Debug\Figures.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Figures\Figures\obj\Debug\Figures.dll
+F:\Visual Studio\Figures\Figures\obj\Debug\Figures.pdb
